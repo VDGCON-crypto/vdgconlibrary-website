@@ -96,7 +96,7 @@
         <li>Anatomy – <a href="#">Download PDF</a></li>
         <li>Physiology – <a href="#">Download PDF</a></li>
         <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
-        <li>Microbiology – <a href="#">Download PDF</a></li>
+        <li>Sociology – <a Sociology.pdf="#">Download PDF</a></li>
     </ul>
     <p><i>More subjects will be added soon.</i></p>
 </section>
