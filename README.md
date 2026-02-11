@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -94,16 +94,16 @@
     <h2>📚 Study Materials</h2>
     <ul>
         <li>Anatomy – <a href="#">Download PDF</a></li>
-        <li>Psychology – <a href="Psychology For Nurses R Sreevani.pdf">Download PDF</a></li>
-        <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
-        <li>Sociology – <a href="SOCIOLOGY.pdf">Download PDF</a></li>
         <li>Physiology – <a href="PHYSIOLOGY.pdf">Download PDF</a></li>
-    <ul>
-    <p><i>More subjects will be added soon.</i></p>       
+        <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
+        <li>Psychology – <a href="Psychology For Nurses R Sreevani.pdf">Download PDF</a></li>
+        <li>Sociology – <a href="SOCIOLOGY.pdf">Download PDF</a></li>
+    </ul>
+    <p><i>More subjects will be added soon.</i></p>
 </section>
 
 <section id="papers">
-<h2>📝 Previous Year Question Papers</h2>
+    <h2>📝 Previous Year Question Papers</h2>
     <ul>
         <li>2022 – Semester 1 – <a href="#">Download</a></li>
         <li>2023 – Semester 1 – <a href="#">Download</a></li>
@@ -140,4 +140,4 @@
 </footer>
 
 </body>
-</html>    
+</html>
