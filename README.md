@@ -123,6 +123,8 @@
     <h2>📩 Contact</h2>
     <p>
         For material submission or corrections:<br>
+        <b>CR  – Lavnya Kukade</b><br>
+        <b>CR  – Vivek Lahane</b><br>
         <b>Lab CR – Vishwajit Shep</b><br>
         <b>Lab CR – Gauri Kadam</b><br>
         <b>Lab CR – Deepika Jaybhaye</b><br>
