@@ -97,7 +97,7 @@
         <li>Psychology – <a href="Psychology For Nurses R Sreevani.pdf">Download PDF</a></li>
         <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
         <li>Sociology – <a href="SOCIOLOGY.pdf">Download PDF</a></li>
-        <li>Physiology – <a herf="PHYSIOLOGY.pdf">Download PDF</a></li>
+        <li>Physiology – <a href="PHYSIOLOGY.pdf">Download PDF</a></li>
     <ul>
     <p><i>More subjects will be added soon.</i></p>
         
