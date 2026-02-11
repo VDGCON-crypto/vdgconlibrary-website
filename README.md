@@ -96,7 +96,7 @@
         <li>Anatomy – <a href="#">Download PDF</a></li>
         <li>Psychology – <a href="Psychology For Nurses R Sreevani.pdf">Download PDF</a></li>
         <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
-        <li>Sociology – <a href="Sociology.pdf">Download PDF</a></li>
+        <li>Sociology – <a href="SOCIOLOGY.pdf">Download PDF</a></li>
     </ul>
     <p><i>More subjects will be added soon.</i></p>
 </section>
