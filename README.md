@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vilasrao Deshmukh Government College of Nursing</title>
+    <title>NURSING LIBRARY BSC</title>
     <style>
         body {
             margin: 0;
@@ -98,6 +98,8 @@
         <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
         <li>Psychology – <a href="Psychology For Nurses R Sreevani.pdf">Download PDF</a></li>
         <li>Sociology – <a href="SOCIOLOGY.pdf">Download PDF</a></li>
+        <li>NUTITION AND BIOCHEMISTERY – <a herf="BIOCHEMISTERY AND NUTRITION.pdf">Download PDF</a></li>
+        <li> more subjects soon </b><br> 
     </ul>
     <p><i>More subjects will be added soon.</i></p>
 </section>
@@ -128,13 +130,13 @@
         <b>Lab CR – Deepika Jaybhaye</b><br>
         <b>Lab CR – Shubham Andhale</b><br> 
         <b>Lab Incharge – Lect.Suryavanshi Ram sir</b><br>
-        Vilasrao Deshmukh Government College of Nursing
+        NURSING LIBRARY LATUR BSC
     </p>
 </section>
 
 <footer>
     <p>
-        © 2026 Vilasrao Deshmukh Government College of Nursing<br>
+        © 2026 NURSING LIBRARY BSC LATUR<br>
         For educational purposes only.
     </p>
 </footer>
