@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NURSING LIBRARY BSC</title>
+    <title>BSC NURSING LIBRARY LATUR</title>
     <style>
         body {
             margin: 0;
@@ -70,7 +70,7 @@
 <body>
 
 <header>
-    <h1> BSC NURSING LIBRARY LATUR </h1>
+    <h1>BSC NURSING LIBRARY LATUR</h1>
     <p>Study Materials & Previous Year Question Papers</p>
 </header>
 
@@ -98,8 +98,7 @@
         <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
         <li>Psychology – <a href="Psychology For Nurses R Sreevani.pdf">Download PDF</a></li>
         <li>Sociology – <a href="SOCIOLOGY.pdf">Download PDF</a></li>
-        <li>BIOCHEMISTERY AND NUTRITIOIN – <a href="BIOCHEMISTERY AND NUTRITION.pdf">Download PDF</a></li>
-        <li> more subjects soon </b><br> 
+         <li>BIOCHEMISTRY  AND NUTRITION – <a href="BIOCHEMISTRY AND NUTRITION.pdf">Download PDF</a></li>
     </ul>
     <p><i>More subjects will be added soon.</i></p>
 </section>
@@ -107,7 +106,9 @@
 <section id="papers">
     <h2>📝 Previous Year Question Papers</h2>
     <ul>
-        <li>Previous years – Semester 1 – <a href="Pyq.pdf">Download</a></li>
+        <li>2022 – Semester 1 – <a href="#">Download</a></li>
+        <li>2023 – Semester 1 – <a href="#">Download</a></li>
+        <li>2024 – Semester 1 – <a href="#">Download</a></li>
     </ul>
 </section>
 
@@ -123,23 +124,22 @@
     <h2>📩 Contact</h2>
     <p>
         For material submission or corrections:<br>
-        <b>CR  – Lavnya Kukade</b><br>
-        <b>CR  – Vivek Lahane</b><br>
         <b>Lab CR – Vishwajit Shep</b><br>
         <b>Lab CR – Gauri Kadam</b><br>
         <b>Lab CR – Deepika Jaybhaye</b><br>
         <b>Lab CR – Shubham Andhale</b><br> 
         <b>Lab Incharge – Lect.Suryavanshi Ram sir</b><br>
-        NURSING LIBRARY LATUR BSC
+        Nursing Library Latur
     </p>
 </section>
 
 <footer>
     <p>
-        © 2026 NURSING LIBRARY BSC LATUR<br>
+        © 2026 Nursing Library Latur <br>
         For educational purposes only.
     </p>
 </footer>
 
 </body>
 </html>
+
