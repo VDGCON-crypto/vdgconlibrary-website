@@ -70,7 +70,7 @@
 <body>
 
 <header>
-    <h1>Vilasrao Deshmukh Government College of Nursing</h1>
+    <h1> BSC NURSING LIBRARY LATUR </h1>
     <p>Study Materials & Previous Year Question Papers</p>
 </header>
 
@@ -98,7 +98,7 @@
         <li>Fundamentals of Nursing – <a href="#">Download PDF</a></li>
         <li>Psychology – <a href="Psychology For Nurses R Sreevani.pdf">Download PDF</a></li>
         <li>Sociology – <a href="SOCIOLOGY.pdf">Download PDF</a></li>
-        <li>NUTITION AND BIOCHEMISTERY – <a herf="BIOCHEMISTERY AND NUTRITION.pdf">Download PDF</a></li>
+        <li>BIOCHEMISTERY AND NUTRITIOIN – <a href="BIOCHEMISTERY AND NUTRITION.pdf">Download PDF</a></li>
         <li> more subjects soon </b><br> 
     </ul>
     <p><i>More subjects will be added soon.</i></p>
