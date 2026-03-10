@@ -106,9 +106,8 @@
 <section id="papers">
     <h2>📝 Previous Year Question Papers</h2>
     <ul>
-        <li>2022 – Semester 1 – <a href="#">Download</a></li>
-        <li>2023 – Semester 1 – <a href="#">Download</a></li>
-        <li>2024 – Semester 1 – <a href="#">Download</a></li>
+        <li> Semester 1 – <a href="Pyq.pdf">Download</a></li>
+        
     </ul>
 </section>
 
